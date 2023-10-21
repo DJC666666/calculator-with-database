@@ -1,0 +1,104 @@
+C:\Users\rywilson\Documents\Degree\Year 1\DC1020 - Systems Development\Coursework\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\Cwk_ScientificCalculator.exe.config
+C:\Users\rywilson\Documents\Degree\Year 1\DC1020 - Systems Development\Coursework\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\Cwk_ScientificCalculator.exe
+C:\Users\rywilson\Documents\Degree\Year 1\DC1020 - Systems Development\Coursework\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\Cwk_ScientificCalculator.pdb
+C:\Users\rywilson\Documents\Degree\Year 1\DC1020 - Systems Development\Coursework\Cwk_ScientificCalculator\Cwk_ScientificCalculator\obj\Debug\Cwk_ScientificCalculator.csprojResolveAssemblyReference.cache
+C:\Users\rywilson\Documents\Degree\Year 1\DC1020 - Systems Development\Coursework\Cwk_ScientificCalculator\Cwk_ScientificCalculator\obj\Debug\Cwk_ScientificCalculator.frmCalculator.resources
+C:\Users\rywilson\Documents\Degree\Year 1\DC1020 - Systems Development\Coursework\Cwk_ScientificCalculator\Cwk_ScientificCalculator\obj\Debug\Cwk_ScientificCalculator.Properties.Resources.resources
+C:\Users\rywilson\Documents\Degree\Year 1\DC1020 - Systems Development\Coursework\Cwk_ScientificCalculator\Cwk_ScientificCalculator\obj\Debug\Cwk_ScientificCalculator.csproj.GenerateResource.cache
+C:\Users\rywilson\Documents\Degree\Year 1\DC1020 - Systems Development\Coursework\Cwk_ScientificCalculator\Cwk_ScientificCalculator\obj\Debug\Cwk_ScientificCalculator.csproj.CoreCompileInputs.cache
+C:\Users\rywilson\Documents\Degree\Year 1\DC1020 - Systems Development\Coursework\Cwk_ScientificCalculator\Cwk_ScientificCalculator\obj\Debug\Cwk_ScientificCalculator.exe
+C:\Users\rywilson\Documents\Degree\Year 1\DC1020 - Systems Development\Coursework\Cwk_ScientificCalculator\Cwk_ScientificCalculator\obj\Debug\Cwk_ScientificCalculator.pdb
+C:\Users\rywilson\Documents\Degree\Year 1\Block 0a\DC1020 - Systems Development\Coursework\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\Cwk_ScientificCalculator.exe.config
+C:\Users\rywilson\Documents\Degree\Year 1\Block 0a\DC1020 - Systems Development\Coursework\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\Cwk_ScientificCalculator.exe
+C:\Users\rywilson\Documents\Degree\Year 1\Block 0a\DC1020 - Systems Development\Coursework\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\Cwk_ScientificCalculator.pdb
+C:\Users\rywilson\Documents\Degree\Year 1\Block 0a\DC1020 - Systems Development\Coursework\Cwk_ScientificCalculator\Cwk_ScientificCalculator\obj\Debug\Cwk_ScientificCalculator.csprojResolveAssemblyReference.cache
+C:\Users\rywilson\Documents\Degree\Year 1\Block 0a\DC1020 - Systems Development\Coursework\Cwk_ScientificCalculator\Cwk_ScientificCalculator\obj\Debug\Cwk_ScientificCalculator.frmCalculator.resources
+C:\Users\rywilson\Documents\Degree\Year 1\Block 0a\DC1020 - Systems Development\Coursework\Cwk_ScientificCalculator\Cwk_ScientificCalculator\obj\Debug\Cwk_ScientificCalculator.Properties.Resources.resources
+C:\Users\rywilson\Documents\Degree\Year 1\Block 0a\DC1020 - Systems Development\Coursework\Cwk_ScientificCalculator\Cwk_ScientificCalculator\obj\Debug\Cwk_ScientificCalculator.csproj.GenerateResource.cache
+C:\Users\rywilson\Documents\Degree\Year 1\Block 0a\DC1020 - Systems Development\Coursework\Cwk_ScientificCalculator\Cwk_ScientificCalculator\obj\Debug\Cwk_ScientificCalculator.csproj.CoreCompileInputs.cache
+C:\Users\rywilson\Documents\Degree\Year 1\Block 0a\DC1020 - Systems Development\Coursework\Cwk_ScientificCalculator\Cwk_ScientificCalculator\obj\Debug\Cwk_ScientificCalculator.exe
+C:\Users\rywilson\Documents\Degree\Year 1\Block 0a\DC1020 - Systems Development\Coursework\Cwk_ScientificCalculator\Cwk_ScientificCalculator\obj\Debug\Cwk_ScientificCalculator.pdb
+D:\Calculator_winform\calculator\github1\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\Cwk_ScientificCalculator.exe.config
+D:\Calculator_winform\calculator\github1\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\obj\Debug\Cwk_ScientificCalculator.exe
+D:\Calculator_winform\calculator\github1\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\obj\Debug\Cwk_ScientificCalculator.pdb
+D:\Calculator_winform\calculator\github1\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\Cwk_ScientificCalculator.exe
+D:\Calculator_winform\calculator\github1\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\Cwk_ScientificCalculator.pdb
+D:\Calculator_winform\calculator\github1\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\obj\Debug\Cwk_ScientificCalculator.frmCalculator.resources
+D:\Calculator_winform\calculator\github1\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\obj\Debug\Cwk_ScientificCalculator.Properties.Resources.resources
+D:\Calculator_winform\calculator\github1\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\obj\Debug\Cwk_ScientificCalculator.csproj.GenerateResource.Cache
+D:\Calculator_winform\calculator\github1\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\obj\Debug\Cwk_ScientificCalculator.csproj.AssemblyReference.cache
+D:\Calculator_winform\calculator\github1\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\obj\Debug\Cwk_ScientificCalculator.csproj.CoreCompileInputs.cache
+D:\Calculator_winform\calculator\github1\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\BouncyCastle.Crypto.dll
+D:\Calculator_winform\calculator\github1\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\Google.Protobuf.dll
+D:\Calculator_winform\calculator\github1\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\K4os.Compression.LZ4.dll
+D:\Calculator_winform\calculator\github1\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Calculator_winform\calculator\github1\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\K4os.Hash.xxHash.dll
+D:\Calculator_winform\calculator\github1\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Calculator_winform\calculator\github1\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\MySql.Data.dll
+D:\Calculator_winform\calculator\github1\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\System.Buffers.dll
+D:\Calculator_winform\calculator\github1\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Calculator_winform\calculator\github1\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Calculator_winform\calculator\github1\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\System.IO.Pipelines.dll
+D:\Calculator_winform\calculator\github1\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\System.Memory.dll
+D:\Calculator_winform\calculator\github1\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\System.Numerics.Vectors.dll
+D:\Calculator_winform\calculator\github1\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Calculator_winform\calculator\github1\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Calculator_winform\calculator\github1\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\ZstdSharp.dll
+D:\Calculator_winform\calculator\github1\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\BouncyCastle.Crypto.xml
+D:\Calculator_winform\calculator\github1\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\Google.Protobuf.pdb
+D:\Calculator_winform\calculator\github1\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\Google.Protobuf.xml
+D:\Calculator_winform\calculator\github1\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\K4os.Compression.LZ4.xml
+D:\Calculator_winform\calculator\github1\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Calculator_winform\calculator\github1\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\K4os.Hash.xxHash.xml
+D:\Calculator_winform\calculator\github1\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Calculator_winform\calculator\github1\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\MySql.Data.xml
+D:\Calculator_winform\calculator\github1\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\System.Buffers.xml
+D:\Calculator_winform\calculator\github1\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Calculator_winform\calculator\github1\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\System.IO.Pipelines.xml
+D:\Calculator_winform\calculator\github1\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\System.Memory.xml
+D:\Calculator_winform\calculator\github1\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\System.Numerics.Vectors.xml
+D:\Calculator_winform\calculator\github1\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Calculator_winform\calculator\github1\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Calculator_winform\calculator\github1\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\obj\Debug\Cwk_ScientificCalculator.csproj.CopyComplete
+D:\Calculator_winform\calculator\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\Cwk_ScientificCalculator.exe.config
+D:\Calculator_winform\calculator\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\Cwk_ScientificCalculator.exe
+D:\Calculator_winform\calculator\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\Cwk_ScientificCalculator.pdb
+D:\Calculator_winform\calculator\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\BouncyCastle.Crypto.dll
+D:\Calculator_winform\calculator\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\Google.Protobuf.dll
+D:\Calculator_winform\calculator\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\K4os.Compression.LZ4.dll
+D:\Calculator_winform\calculator\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Calculator_winform\calculator\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\K4os.Hash.xxHash.dll
+D:\Calculator_winform\calculator\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Calculator_winform\calculator\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\MySql.Data.dll
+D:\Calculator_winform\calculator\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\System.Buffers.dll
+D:\Calculator_winform\calculator\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Calculator_winform\calculator\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Calculator_winform\calculator\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\System.IO.Pipelines.dll
+D:\Calculator_winform\calculator\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\System.Memory.dll
+D:\Calculator_winform\calculator\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\System.Numerics.Vectors.dll
+D:\Calculator_winform\calculator\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Calculator_winform\calculator\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Calculator_winform\calculator\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\ZstdSharp.dll
+D:\Calculator_winform\calculator\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\BouncyCastle.Crypto.xml
+D:\Calculator_winform\calculator\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\Google.Protobuf.pdb
+D:\Calculator_winform\calculator\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\Google.Protobuf.xml
+D:\Calculator_winform\calculator\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\K4os.Compression.LZ4.xml
+D:\Calculator_winform\calculator\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Calculator_winform\calculator\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\K4os.Hash.xxHash.xml
+D:\Calculator_winform\calculator\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Calculator_winform\calculator\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\MySql.Data.xml
+D:\Calculator_winform\calculator\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\System.Buffers.xml
+D:\Calculator_winform\calculator\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Calculator_winform\calculator\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\System.IO.Pipelines.xml
+D:\Calculator_winform\calculator\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\System.Memory.xml
+D:\Calculator_winform\calculator\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\System.Numerics.Vectors.xml
+D:\Calculator_winform\calculator\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Calculator_winform\calculator\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Calculator_winform\calculator\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\obj\Debug\Cwk_ScientificCalculator.csproj.AssemblyReference.cache
+D:\Calculator_winform\calculator\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\obj\Debug\Cwk_ScientificCalculator.frmCalculator.resources
+D:\Calculator_winform\calculator\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\obj\Debug\Cwk_ScientificCalculator.Properties.Resources.resources
+D:\Calculator_winform\calculator\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\obj\Debug\Cwk_ScientificCalculator.csproj.GenerateResource.cache
+D:\Calculator_winform\calculator\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\obj\Debug\Cwk_ScientificCalculator.csproj.CoreCompileInputs.cache
+D:\Calculator_winform\calculator\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\obj\Debug\Cwk_ScientificCalculator.csproj.CopyComplete
+D:\Calculator_winform\calculator\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\obj\Debug\Cwk_ScientificCalculator.exe
+D:\Calculator_winform\calculator\Scientific-Calculator\Cwk_ScientificCalculator\Cwk_ScientificCalculator\obj\Debug\Cwk_ScientificCalculator.pdb
